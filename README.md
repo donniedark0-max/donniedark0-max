@@ -24,5 +24,5 @@
 
 ### Every living creature on earth dies alone.
 <p align="center">
-   ![screen](https://64.media.tumblr.com/3318ceec02450aef20cab0f49af665b7/tumblr_ohr5moE7wg1vicvolo1_500.gif)
+   <img align="center" src=https://64.media.tumblr.com/3318ceec02450aef20cab0f49af665b7/tumblr_ohr5moE7wg1vicvolo1_500.gif" alt="Página de la libreria Donnie" height="330px" width="506px" />
 </p>
