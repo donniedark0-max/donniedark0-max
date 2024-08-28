@@ -11,11 +11,11 @@
   </a>
   <span style="width: 8px;"> </span>
    <a href="space-x-api-five.vercel.app" target="blank">
-    <img align="center" src="https://vercel.com/_next/image?url=%2Fapi%2Fscreenshot%3Fdark%3D1%26deploymentId%3Ddpl_BAEp7UgMx2B1k5D62q91NyzZFMri%26teamId%3Ddonniedark0-maxs-projects%26withStatus%3D1&w=1920&q=75&dpl=dpl_91DT5DcdMCfbFTUB8xNN7tsLPZRR" alt="midudev" height="230px" width="503px" />
+    <img align="center" src="https://vercel.com/_next/image?url=%2Fapi%2Fscreenshot%3Fdark%3D1%26deploymentId%3Ddpl_BAEp7UgMx2B1k5D62q91NyzZFMri%26teamId%3Ddonniedark0-maxs-projects%26withStatus%3D1&w=1920&q=75&dpl=dpl_91DT5DcdMCfbFTUB8xNN7tsLPZRR" alt="midudev" height="280px" width="503px" />
   </a>
   <span style="width: 8px;"> </span>
   <a href="play-pixel-red.vercel.app" target="blank">
-    <img align="center" src="https://vercel.com/_next/image?url=%2Fapi%2Fscreenshot%3Fdark%3D1%26deploymentId%3Ddpl_4cdmWi7zxZH7yvWkEF6dxc7NgGB7%26teamId%3Ddonniedark0-maxs-projects%26withStatus%3D1&w=1920&q=75&dpl=dpl_91DT5DcdMCfbFTUB8xNN7tsLPZRR" alt="Canal de Instagram de midu.dev" height="203px" width="503px" />
+    <img align="center" src="https://vercel.com/_next/image?url=%2Fapi%2Fscreenshot%3Fdark%3D1%26deploymentId%3Ddpl_4cdmWi7zxZH7yvWkEF6dxc7NgGB7%26teamId%3Ddonniedark0-maxs-projects%26withStatus%3D1&w=1920&q=75&dpl=dpl_91DT5DcdMCfbFTUB8xNN7tsLPZRR" alt="Canal de Instagram de midu.dev" height="283px" width="503px" />
   </a>
 </p>
 
