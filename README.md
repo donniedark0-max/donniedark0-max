@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://64.media.tumblr.com/5d0f2320c3f5579689e996b8f38d8764/1aaf421b00737d96-41/s540x810/a11e5bf5d5a5c469ef8369a00b87c98361b97003.gif" />
+   <img align="center" width="200" src="https://64.media.tumblr.com/1efa2f2cf87f9af4e4c8d96c2f7538ee/62becb8b578093c4-e5/s1280x1920/791c641d2442fa258542c42d0d1d1469d2e70bf2.jpg" />
    <h3 align="center">¡Hola 🐼! </h3>
 </p>
 
