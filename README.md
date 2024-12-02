@@ -8,7 +8,10 @@
 ![Darko GitHub stats](https://github-readme-stats.vercel.app/api?username=donniedark0-max&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
    </div>
 
+   <div align="center">
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donniedark0-max&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 
 
 
