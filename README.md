@@ -19,8 +19,7 @@
   </a>
 </p>
 
-![donniedark0-max's Streak](https://github-readme-streak-stats.herokuapp.com/?user=donniedark0-max&theme=vue-dark&hide_border=true)
-
+[![GitHub Streak](https://github-readme-streak-stats-neon-psi.vercel.app?user=donniedark0-max&theme=blood-dark&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 ### Every living creature on earth dies alone.
 <p align="center">
