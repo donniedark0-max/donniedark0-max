@@ -7,8 +7,7 @@
 [![GitHub Streak](https://github-readme-streak-stats-neon-psi.vercel.app?user=donniedark0-max&theme=aura-dark&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![Darko GitHub stats](https://github-readme-stats.vercel.app/api?username=donniedark0-max&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
    </div>
-   
-[![Darko WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=donniedarko_max)](https://github.com/anuraghazra/github-readme-stats)
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donniedark0-max&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
