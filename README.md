@@ -9,7 +9,7 @@
    </div>
    
 [![Darko WakaTime stats](https://github-readme-stats.vercel.app/api/wakatimedonniedark0-max=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=donniedark0-max&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
