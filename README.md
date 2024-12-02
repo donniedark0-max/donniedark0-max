@@ -1,6 +1,9 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://64.media.tumblr.com/1efa2f2cf87f9af4e4c8d96c2f7538ee/62becb8b578093c4-e5/s1280x1920/791c641d2442fa258542c42d0d1d1469d2e70bf2.jpg" />
    <h3 align="center">¡Hola 🐼! Bienvenido a mi perfil</h3>
+
+   [![GitHub Streak](https://github-readme-streak-stats-neon-psi.vercel.app?user=donniedark0-max&theme=blood-dark&hide_border=true&locale=es)](https://git.io/streak-stats)
+
 </p>
 
 ### Algunos de mis proyectos ↓
@@ -19,7 +22,6 @@
   </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats-neon-psi.vercel.app?user=donniedark0-max&theme=blood-dark&hide_border=true&locale=es)](https://git.io/streak-stats)
 
 ### Every living creature on earth dies alone.
 <p align="center">
