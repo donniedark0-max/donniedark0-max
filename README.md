@@ -5,7 +5,7 @@
    <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats-neon-psi.vercel.app?user=donniedark0-max&theme=aura-dark&hide_border=true&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Darko GitHub stats](https://github-readme-stats.vercel.app/api?username=donniedark0-maxv&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+![Darko GitHub stats](https://github-readme-stats.vercel.app/api?username=donniedark0-max&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
    </div>
   
 
