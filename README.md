@@ -4,7 +4,7 @@
    </p>
    <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=donniedark0-max)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=donniedark0-max&locale=es)](https://git.io/streak-stats)
 ![Darko GitHub stats](https://github-readme-stats.vercel.app/api?username=donniedark0-max&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
    </div>
 
