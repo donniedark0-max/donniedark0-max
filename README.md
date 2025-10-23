@@ -23,11 +23,11 @@
   </a>
   <span style="width: 8px;"> </span>
    <a href="https://github.com/donniedark0-max/spaceX-api" target="blank">
-    <img align="center" src="https://vercel.com/_next/image?url=%2Fapi%2Fscreenshot%3Fdark%3D1%26deploymentId%3Ddpl_BAEp7UgMx2B1k5D62q91NyzZFMri%26teamId%3Ddonniedark0-maxs-projects%26withStatus%3D1&w=1920&q=75&dpl=dpl_91DT5DcdMCfbFTUB8xNN7tsLPZRR" alt="spacexapi" height="330px" width="503px" />
+    <img align="center" src="https://vercel.com/api/screenshot?dark=0&deploymentId=dpl_BAEp7UgMx2B1k5D62q91NyzZFMri&teamId=donniedark0-maxs-projects&withStatus=1" alt="spacexapi" height="330px" width="503px" />
   </a>
   <span style="width: 8px;"> </span>
   <a href="https://github.com/donniedark0-max/PlayPixel" target="blank">
-    <img align="center" src="https://vercel.com/_next/image?url=%2Fapi%2Fscreenshot%3Fdark%3D1%26deploymentId%3Ddpl_4cdmWi7zxZH7yvWkEF6dxc7NgGB7%26teamId%3Ddonniedark0-maxs-projects%26withStatus%3D1&w=1920&q=75&dpl=dpl_91DT5DcdMCfbFTUB8xNN7tsLPZRR" alt="playpixel" height="333px" width="503px" />
+    <img align="center" src="https://vercel.com/api/screenshot?dark=1&deploymentId=dpl_4cdmWi7zxZH7yvWkEF6dxc7NgGB7&teamId=donniedark0-maxs-projects&withStatus=1" alt="playpixel" height="333px" width="503px" />
   </a>
 </p>
 
